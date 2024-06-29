@@ -5,7 +5,7 @@ Takes stock prices data of companies and predicts stock prices based on features
 LSTM is used for training of model for analyzing stock market data because it can handle data with multiple input and output timesteps. LSTMs are a type of RNN that remember information over long periods of time
 
 
-EDA on Microsoft stock data:
+## EDA on Microsoft stock data:
 
 --> Mean and standard deviation of high prices
 
@@ -19,7 +19,7 @@ EDA on Microsoft stock data:
 
 --> Analysis of the Volume Data on Daily, Monthly, and Yearly Basis
 
-![Screenshot 2024-06-29 231551](https://github.com/sayaliambure/Stock-price-prediction/assets/89408981/07dd33de-f034-41e0-ab3d-9d094a702ee7)
+![image](https://github.com/sayaliambure/Stock-price-prediction/assets/89408981/48df0792-edfa-4e3e-8441-ad8885840d38)
 
 
 
@@ -29,6 +29,8 @@ EDA on Microsoft stock data:
 
 
 
+
+## After model training (trained using LSTM): 
 --> True vs Predicted stock value
 
 ![Screenshot 2024-06-29 233258](https://github.com/sayaliambure/Stock-price-prediction/assets/89408981/b752d4bc-4f6f-4037-bbdf-89e648ffa186)
